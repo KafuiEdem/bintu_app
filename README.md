@@ -28,4 +28,8 @@ Visit Macvendors [macvendors](https://macvendors.com/api) and register for an AP
 After registering, you will be provided with your bearer token.<br>
 You can then use the APP.<br>
 
+## Installation 
+Make sure you have python installed on your device.<br>
+Open the cmd_app folder in the terminal and run the bintu.py file `./bintu.py`<br>
+
 ### Note that both the cmd and web are all written in pure python.

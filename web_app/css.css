@@ -1,0 +1,48 @@
+body{
+    width: auto;
+    height: auto;
+}
+
+.container{
+    width: 50%;
+    margin-left: auto;
+    /* background-color: aqua; */
+    margin-right: auto;
+    height: 200px;
+    padding: 16px;
+}
+.mac-page{
+    width: 100%;
+    background-color: bisque;
+    height: 150px;
+    margin: 16px;
+    padding: 16px;
+    float: right;
+}
+.mac-page input{
+    width: 70%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.mac-page h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#get-mac{
+    width: auto;
+    height: 40px;
+    border-radius: 0;
+    background-color: blue;
+}
+#show-mac{
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 8px;
+}
+
+.setting{
+    float: right;
+}
