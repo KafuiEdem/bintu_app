@@ -33,3 +33,7 @@ Make sure you have python installed on your device.<br>
 Open the cmd_app folder in the terminal and run the bintu.py file `./bintu.py`<br>
 
 ### Note that both the cmd and web are all written in pure python.
+
+## WEB
+In the web type, you run the APP in the browser, perform some setting by adding your api bearer token, than, you save it.<br>
+You then pest your mac address in the search box to see the device the mac address is map too.
