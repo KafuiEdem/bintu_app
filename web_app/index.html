@@ -7,13 +7,14 @@
     <link rel="stylesheet" href="./css.css" type="text/css">
     <title>Bintu Web</title> 
     <py-env>
-        - requests
+        
         <!-- - path:
             ./cmd_app/setting.py -->
 
     </py-env>
 </head>
 <body>
+   
     <div class="container">
         
         <div class="mac-page">
@@ -32,6 +33,9 @@
                 <button id="get-mac" type="submit" py-click="data()">Save</button>
         </aside>
     </div>
+     <py-config>
+        packages = ["requests", "pyodide-http"]
+      </py-config>
     <py-script src="./index.py"></py-script>
 </body>
 </html>
